@@ -20,7 +20,7 @@
     "paymentGateway": [
         "stripe"
     ],
-    "databaseConnectionString": "mongodb+srv://mkern:Mk363861338@cluster0-exu5b.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "databaseConnectionString": "mongodb+srv://mkern:Mk363861338@db-cluster-east.7fv3f.mongodb.net/<dbname>?retryWrites=true&w=majority",
     "theme": "Cloth",
     "trackStock": false,
     "orderHook": "",
